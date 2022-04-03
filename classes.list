@@ -1,0 +1,11 @@
+bin/professorCode/AbstractDictionary.class 
+bin/professorCode/FileTextWriter.class 
+bin/professorCode/AbstractFileMonitor.class 
+bin/professorCode/FileTextReader.class 
+bin/professorCode/TurnParser.class 
+bin/myCode/Strategy.class 
+bin/myCode/Stopwatch.class 
+bin/myCode/GhostSkeleton.class 
+bin/myCode/Dictionary.class 
+bin/myCode/WordIndex.class 
+bin/myCode/FileManager.class 
